@@ -3,7 +3,7 @@
 Meu nome é Ian Matsumoto
 
 - Estou estudando na [Alura](https://alura.com.br)
-- Estou me desenvolvendo na linguagme JavaScript
+- Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização dos meus projetos desenvolvidos
 
 ### Você entrar em contato comigo 📫
